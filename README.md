@@ -14,7 +14,7 @@ python3 crypt.py
 ```
 
 
-#### [License]: https://github.com/mrprogrammer2938/Cryptography/blob/master/LICENSE
+#### [License](https://github.com/mrprogrammer2938/Cryptography/blob/master/LICENSE)
 <br>
 
 ### [Mr.nope](https://github.com/mrprogrammer2938) Account...
