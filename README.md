@@ -13,6 +13,10 @@ bash install.sh
 python3 crypt.py
 ```
 
+
+#### [License]: https://github.com/mrprogrammer2938/Cryptography/blob/master/LICENSE
+<br>
+
 ### [Mr.nope](https://github.com/mrprogrammer2938) Account...
 
 [Instagram](https://instagram.com/programmer2938)
